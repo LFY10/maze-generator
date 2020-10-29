@@ -68,8 +68,8 @@ public class MazeGenerator {
         printMaze();
         printPath();
      
-        // Tom Luo - My new maze. Dimensions are 25 x 25. 
-        n = 25; 
+        // Tom Luo - My new maze. Dimensions are 19 x 19. 
+        n = 19; 
         makeMaze(); 
         printMaze(); 
         printPath(); 
